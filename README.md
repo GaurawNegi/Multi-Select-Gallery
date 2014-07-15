@@ -15,4 +15,4 @@ Multi Select Gallery For Android
 
 ## Screen shots
 
-![Screenshot](https://raw.githubusercontent.com/GaurawNegi/MultiSelectGallery/master/screenshots/flow.png)
+![Screenshot](https://raw.githubusercontent.com/GaurawNegi/Multi-Select-Gallery/master/screenshots/flow.png)
